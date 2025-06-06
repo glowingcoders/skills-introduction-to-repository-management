@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @glowingcoders
+/src/backend/database.py      @glowingcoders
+/src/backend/routers/auth.py  @glowingcoders
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @glowingcoders
